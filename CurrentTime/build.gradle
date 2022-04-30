@@ -50,7 +50,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.bhavin-qfonapp'
-                artifactId = 'timeasia'
+                artifactId = 'TimeSample'
                 version = '1.0.0'
             }
         }
