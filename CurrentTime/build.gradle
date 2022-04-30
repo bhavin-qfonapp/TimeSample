@@ -49,7 +49,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.timestamp.bhavin'
+                groupId = 'com.github.bhavin-qfonapp'
                 artifactId = 'timeasia'
                 version = '1.0.0'
             }
